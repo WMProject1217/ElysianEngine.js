@@ -6,6 +6,12 @@ ElysianEngine.js 是一种基于纯JavaScript环境的GalGame脚本引擎，在C
 
 可以在 https://wmproject1217.github.io/ElysianEngine/test.html 查看示例。
 
+
+> [!IMPORTANT]
+> 重要
+> 此工程的提交已合并到 https://github.com/WMProject1217/wmcomlib.js2 ，当前库已过期。
+
+
 ## 依赖
 
 必须 wmcomlib.js/wmassetsloader.js (0.1.3或更新版本)

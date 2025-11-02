@@ -1,5 +1,9 @@
 # ElysianEngine.js
 
+> [!IMPORTANT]
+> 重要\n
+> 此工程的提交已合并到 https://github.com/WMProject1217/wmcomlib.js2 ，当前库已过期。
+
 A GalGame Scripting Engine on pure JavaScript
 
 ElysianEngine.js 是一种基于纯JavaScript环境的GalGame脚本引擎，在Chromium 64或更新版本上工作。
@@ -7,9 +11,6 @@ ElysianEngine.js 是一种基于纯JavaScript环境的GalGame脚本引擎，在C
 可以在 https://wmproject1217.github.io/ElysianEngine/test.html 查看示例。
 
 
-> [!IMPORTANT]
-> 重要
-> 此工程的提交已合并到 https://github.com/WMProject1217/wmcomlib.js2 ，当前库已过期。
 
 
 ## 依赖
